@@ -1,3 +1,4 @@
+#Camila Meneses Prof Adonis ALeman Fundamentos de las tecnologias digitales
 def calcular_promedio(notas):
     return sum(notas) / len(notas)
 
